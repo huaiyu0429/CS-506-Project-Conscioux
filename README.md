@@ -5,3 +5,5 @@ Huaiyu Hu, Keer Jiang, Yuning Xie
 
 There are one final report(pdf), one data file(4 tweets csv, 1 state_rank csv for logsitic regression, 2 json for yelp), 
 three ipynb files (one for tweets analyzing, one for tweets heatmap, one for yelp clustering).
+
+Because the original data containing information about tweets is too large to upload, here we only upload the csv after tidying.
