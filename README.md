@@ -1,8 +1,8 @@
 # CS-506-Project-Conscioux Internet Market Research
 ## Project Goals
 * Locate potential markets for Conscioux by taking insight of people's attitude towards veganism
-* Visualize the distribution of restaurants that provide vegetarian food by clustering Yelp data
-* With the preprocessed tweets data, we build several models that classify the sentiment based on one's tweet and choose the optimal one with highest accuracy
+* Visualize the distribution of restaurants that provide vegetarian food
+* Build several models that classify the sentiment based on one's tweet and choose the optimal one with highest accuracy
 * Explore other factors that may affect people's attitude towards vegan, significant factors by logistic regression
 ## Dataset
 The two main datasets we use are the data containing terms "vegan", "weight loss" and "vegetarian" scraped from Twitter and public Yelp dataset. Because the original data containing information about tweets is too large to upload, here we only upload the csv after tidying. Our data file including 4 tweets csv files and 1 state_rank csv for lositic regression. The yelp dataset is too large and we cannot upload it. However, you can download the Yelp public dataset from [here](https://www.yelp.com/dataset).
