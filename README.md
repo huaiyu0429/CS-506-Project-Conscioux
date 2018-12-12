@@ -12,5 +12,9 @@ There are one final report(pdf), 2 html (tweet & yelp heatmap), 5 ipynb files (t
 * Get your credentials and access token from your twitter account [here](https://www.slickremix.com/docs/how-to-get-api-keys-and-tokens-for-twitter/)
 * Get your credentials and access token from your google map account [here](https://developers.google.com/maps/documentation/javascript/get-api-key)
 * Replace your twitter keys in getdat.ipynb and google map keys in clustering.ipynb
-* Install all packages we used in these files
+* Install all python packages we used in these files by commond line  
+For example, if you are lack of gmplot, you can:  
+'''
+pip install gmplot
+'''
 ### Feel free to ask us any questions: ynxie@bu.edu, huaiyu@bu.edu and kejiang@bu.edu
