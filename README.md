@@ -17,4 +17,5 @@ For example, if you are lack of gmplot, you can:
 ```
 pip install gmplot
 ```
+Other packages can be installed as the same way.
 ### Feel free to ask us any questions: ynxie@bu.edu, huaiyu@bu.edu and kejiang@bu.edu
